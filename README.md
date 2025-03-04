@@ -17,3 +17,5 @@ A simple countdown timer built using **HTML, CSS, and JavaScript**. This timer a
 - **JavaScript** – For timer logic
 
 ## 💡 Preview Screenshot
+![Image](https://github.com/user-attachments/assets/87652a23-9f77-4155-848a-70fc64d66c8f)
+
